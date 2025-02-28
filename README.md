@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Luã Prata</h1>
-<h3 align="center">Um entusiasta de dados explorando o mundo da análise enquanto trabalha na área, com uma grande paixão por games.</h3>
+<h3 align="center">Entusiasta de dados, atuando na área e apaixonado por games.</h3>
 
 - 🔭 Estou trabalhando atualmente em [steam_lancamentos](https://github.com/luaprata/steam_lancamentos)
 
