@@ -20,3 +20,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luaprata&show_icons=true&locale=en&layout=compact" alt="luaprata" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luaprata&show_icons=true&locale=en" alt="luaprata" /></p>
+
+<img src="https://raw.githubusercontent.com/luaprata/luaprata/output/snake.svg" alt="Snake animation" />
+
