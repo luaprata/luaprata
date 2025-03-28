@@ -13,7 +13,7 @@
 
 - 🕹️ No universo dos jogos, estudando: Godot, pixel art e lógica de desenvolvimento para games.
 
-- 👨‍💻Todos os meus projetos estão disponíveis em [repositórios](https://github.com/luaprata?tab=repositories)
+- 👨‍💻Todos os meus projetos estão disponíveis em [repositórios.](https://github.com/luaprata?tab=repositories)
 
-- 📄 Saiba mais sobre minhas experiências profissionais no [Linkedin](https://www.linkedin.com/in/luaprata/)
+- 📄 Saiba mais sobre minhas experiências profissionais no [Linkedin.](https://www.linkedin.com/in/luaprata/)
 
