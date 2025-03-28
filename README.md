@@ -7,13 +7,13 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-- 🔭 Estou desenvolvendo meu portfólio no GitHub com projetos de dados, sempre buscando incluir elementos relacionados a games.
+- 🔭 Estou desenvolvendo meu portfólio com projetos de dados, sempre buscando incluir elementos relacionados a games.
 
 - 🎲 Atualmente explorando o mundo dos dados com: Python, AWS (S3 e Lambda), GitHub, Streamlit e Power BI.
 
 - 🕹️ No universo dos jogos, estudando: Godot, pixel art e lógica de desenvolvimento para games.
 
-- 👨‍💻Todos os meus projetos estão disponíveis em [repositórios]([https://github.com/luaprata](https://github.com/luaprata?tab=repositories))
+- 👨‍💻Todos os meus projetos estão disponíveis em [repositórios](https://github.com/luaprata?tab=repositories)
 
 - 📄 Saiba mais sobre minhas experiências profissionais no [Linkedin](https://www.linkedin.com/in/luaprata/)
 
