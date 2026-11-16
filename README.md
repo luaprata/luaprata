@@ -7,13 +7,14 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-- 🔭 Estou desenvolvendo meu portfólio com projetos de dados, sempre buscando incluir elementos relacionados a games.
+- 🔭 **Atuação:** Engenharia de Dados, Business Intelligence, desenvolvimento de aplicações e automações.
 
-- 🎲 Atualmente explorando o mundo dos dados com: Python, AWS (S3 e Lambda), GitHub, Streamlit e Power BI.
+- 🛠️ **Tecnologias:** Python, SQL, Power BI, AWS, React, Next.js, TypeScript e Supabase.
 
-- 🕹️ No universo dos jogos, estudando: Godot, pixel art e lógica de desenvolvimento para games.
+- 🎮 **Game Dev:** Criador da **SilverMoon Labs**, onde desenvolvo jogos independentes utilizando Unity, C# e Blender.
 
-- 👨‍💻Todos os meus projetos estão disponíveis em [repositórios.](https://github.com/luaprata?tab=repositories)
+- 🚀 **Projetos:** Exploro desde pipelines de dados e ferramentas de produtividade até aplicações web, SaaS e jogos.
 
-- 📄 Saiba mais sobre minhas experiências profissionais no [Linkedin.](https://www.linkedin.com/in/luaprata/)
+- 📂 **Repositórios:** Confira meus [projetos no GitHub](https://github.com/luaprata?tab=repositories).
 
+- 💼 **Experiência profissional:** Conheça minha trajetória no [LinkedIn](https://www.linkedin.com/in/luaprata/).
